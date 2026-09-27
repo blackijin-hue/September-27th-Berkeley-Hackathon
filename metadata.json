@@ -1,0 +1,6 @@
+{
+  "name": "Last Mile — Vehicle Recall Completion Intelligence",
+  "description": "AI-powered safety recall completion platform bridging the gap between OTA software release and actual vehicle remediation through multi-signal prediction, customer assistance, and consented dealer handoff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
